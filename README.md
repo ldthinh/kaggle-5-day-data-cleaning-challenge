@@ -1,4 +1,5 @@
 # All days of the challange:
+https://www.kaggle.com/rtatman/data-cleaning-challenge-handling-missing-values
 
 ###     [Day 1: Handling missing values](./day_1/notebooks/) -- [challenge Link](https://www.kaggle.com/rtatman/data-cleaning-challenge-handling-missing-values) -- [Kaggle kernel link](https://www.kaggle.com/hackbansu/data-cleaning-challenge-handling-missing-values)
 ###     [Day 2: Scaling and normalization](./day_2/notebooks/) -- [challenge Link](https://www.kaggle.com/rtatman/data-cleaning-challenge-scale-and-normalize-data) -- [Kaggle kernel link](https://www.kaggle.com/hackbansu/data-cleaning-challenge-scale-and-normalize-data/notebook)
